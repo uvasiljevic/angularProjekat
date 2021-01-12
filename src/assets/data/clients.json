@@ -1,0 +1,37 @@
+[
+    {
+    "image" : "person_2.jpg",
+    "text" : "Great wines, great people, great ambient, great winary!",
+    "name" : "Steve McQuen"
+    },
+    {
+        "image" : "person_3.jpg",
+        "text" : "Amazing expirience drinking one of best wines in the world!",
+        "name" : "Bob Dylan"
+    },
+    {
+        "image" : "person_1.jpg",
+        "text" : "Beautifull day for wine!",
+        "name" : "Amy Watson"
+    },
+    {
+        "image" : "person_3.jpg",
+        "text" : "Just amazing!",
+        "name" : "Paul Pierce"
+    },
+    {
+        "image" : "person_2.jpg",
+        "text" : "All the best!",
+        "name" : "Steve Jobs"
+    },
+    {
+        "image" : "person_3.jpg",
+        "text" : "Great day with wines!",
+        "name" : "Bill Gates"
+    },
+    {
+        "image" : "person_2.jpg",
+        "text" : "Good ambiente!",
+        "name" : "Allan Ford"
+    }
+]

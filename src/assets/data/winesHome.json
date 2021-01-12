@@ -1,0 +1,20 @@
+[
+    {
+        "image" : "wine_2.png",
+        "name" : "Trius Cabernet France 2011",
+        "price" : "629,00",
+        "oldPrice" : "700,00"
+    },
+    {
+        "image" : "wine_3.png",
+        "name" : "Trius Cabernet France 2011",
+        "price" : "929,00",
+        "oldPrice" : "1000,00"
+    },
+    {
+        "image" : "wine_1.png",
+        "name" : "Trius Cabernet France 2011",
+        "price" : "1.500,00",
+        "oldPrice" : "1.200,00"
+    }
+]
